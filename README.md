@@ -2,7 +2,7 @@
 
 **`Aspirante a desenvolvedor`**
 
-Me chamo Wallace Elpidio, tenho 18 anos e atualmente, estou cursando Sistemas de Informação na UFG. Sou apaixonado por tecnologia e estou me aventurando no desenvolvimento.
+Me chamo Wallace Elpidio, tenho 19 anos e atualmente, estou cursando Sistemas de Informação na UFG. Sou apaixonado por tecnologia e estou me aventurando no desenvolvimento.
 
 
 ---
